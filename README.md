@@ -1,4 +1,4 @@
-a#machine-learning-coursera-stanford 
+#machine-learning-coursera-stanford 
 
 This repo is created for all the work done my me as a part of Stanford's Machine Learning Course through Coursera. 
 
